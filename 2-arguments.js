@@ -1,4 +1,4 @@
-let myVar = [1,2,3];
+let myVar;
 
 if (myVar.length == 0){
   console.log('No argument');

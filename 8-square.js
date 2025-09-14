@@ -6,6 +6,7 @@ if (Number.isInteger(size)){
     for (let j=0; j <= size; j++){
       console.log('x');
     }
+    console.log('x')
   }
 }else{
   console.log('Missing size');
